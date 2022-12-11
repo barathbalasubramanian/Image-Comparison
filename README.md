@@ -1,2 +1,2 @@
-# Image-Comparision
-Image comparision using python ( open cv )
+# Image-Comparison
+Image comparison using python ( open cv )
